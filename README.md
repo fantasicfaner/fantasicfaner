@@ -1,5 +1,5 @@
-print ("👋 Hi, I’m @fantasicfaner")
-- 👀 I’m interested in computer science and programming
+- 👋 Hi, I’m fantasicfaner
+- 👀 I’m interested in computer science/ programming
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
