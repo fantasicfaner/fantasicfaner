@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @fantasicfaner
+print("👋 Hi, I’m @fantasicfaner")
 - 👀 I’m interested in computer science and programming
 - 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on my project
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
