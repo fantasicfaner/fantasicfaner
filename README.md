@@ -1,4 +1,4 @@
-print("👋 Hi, I’m @fantasicfaner")
+print ("👋 Hi, I’m @fantasicfaner")
 - 👀 I’m interested in computer science and programming
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
